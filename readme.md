@@ -1,6 +1,7 @@
 # Intro to Performance optimisation
 This package should be used by every ninja programmer interested by tunning or monitoring the performance of his applications.
 
+
 ## Tools
 This package contains the following tools
 *   kg: used to determine what are the different frequency used by your processor during different scenario (AVX1, AVX2, Turbo ON/OFF...)
